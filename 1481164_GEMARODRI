@@ -1,0 +1,9 @@
+{
+  "Id": "1481164",
+  "IdGerrit": "208796",
+  "Files": "nova/virt/libvirt/blockinfo.py",
+  "CommitParent": "4a96b90623ffd3814131b37c622e75e4dae812fa",
+  "CommitPrevious": "",
+  "Responsible": "Neither",
+  "Comments": "There is not any responsible because was a failure after merging files."
+}
