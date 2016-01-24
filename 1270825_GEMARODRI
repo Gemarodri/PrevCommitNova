@@ -1,9 +1,0 @@
-{
-  "Id": "1270825",
-  "IdGerrit": "90321",
-  "Files": "nova/tests/unit/virt/libvirt/test_driver.py,nova/virt/libvirt/driver.py,nova/virt/libvirt/utils.py",
-  "CommitParent": "f75fea973cdd6da9dec677afa17d14cb1023c01b",
-  "CommitPrevious": "1234",
-  "Comments": "preasdqwe",
-  "Classification": "Undecided"
-}
