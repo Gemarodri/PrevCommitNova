@@ -1,0 +1,9 @@
+{
+  "Id": "1392798",
+  "IdGerrit": "134603",
+  "Files": "nova/compute/manager.py",
+  "CommitParent": "767797a23884891e33005c3ca708d364f4523212",
+  "CommitPrevious": "652a487ed",
+  "Responsible": "Not_Responsible",
+  "Comments": "652a487ed is not responsible, it's a comment"
+}
