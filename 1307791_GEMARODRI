@@ -1,0 +1,9 @@
+{
+  "Id": "1307791",
+  "IdGerrit": "89298",
+  "Files": "nova/compute/api.py",
+  "CommitParent": "c1add5d245ce493c475c5084def0b59d748d1056",
+  "CommitPrevious": "b7f0946bb\n48729259c\n77dd6a0b3\n7e7bcc4f0\n3dff43356\n91449a828 \n10593c2ea\n64e167eb6 \n250230b32 \nb3c9cc504\n3dff43356\n1e8df2f00\n14cf5454f",
+  "Responsible": "Atleastone",
+  "Comments": "b7f0946bb is not responsible\n48729259c is not responsible\n77dd6a0b3 is responsible\n7e7bcc4f0 is responsible\n3dff43356 is not responsible, the current commit copied the line\n91449a828 is not responsible, the current commit copied the line\n10593c2ea is not responsible, the current commit copied the line\n64e167eb6 is responsible\n250230b32 is not responsible, the current commit only deleted the line\nb3c9cc504 is not responsible, the current commit only deleted the line\n3dff43356 is responsible\n1e8df2f00  is not responsible, the current commit copied the lines\n14cf5454f  is not responsible, the current commit copied the lines"
+}
