@@ -1,0 +1,9 @@
+{
+  "Id": "1350224",
+  "IdGerrit": "128508",
+  "Files": "nova/virt/vmwareapi/vmops.py\nnova/virt/vmwareapi/volumeops.py",
+  "CommitParent": "017574ee82eaca3825c03884fda6b877fcedad7e",
+  "CommitPrevious": "942b9cd7\n0bfade69\neb8b422d\ne8e9036e\nb89cc3d4\n2c7a994a\ndd52437e",
+  "Responsible": "Atleastone",
+  "Comments": "942b9cd7 is responsible\n0bfade69 is not responsible, it's only a LOG.debug and in this case is not responsible in the insertion of the bug\neb8b422d is not responsible\ne8e9036e is not responsible\nb89cc3d4 is not responsible because the change was a variable name and an addition in the arguments\n2c7a994a is not responsible,  this line has been added in the new commit.\ndd52437e is not responsible."
+}
