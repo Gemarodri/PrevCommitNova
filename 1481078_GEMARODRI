@@ -2,7 +2,7 @@
   "Id": "1481078",
   "IdGerrit": "208642",
   "Files": "nova/virt/xenapi/vmops.py",
-  "CommitParent": "db7fc595ebc86b19ead193a3571e4db2ba8de8f5",
+  "CommitParent": "20d4685df9847972337473063091da3972941de3",
   "CommitPrevious": "31f208423",
   "Responsible": "Responsible",
   "Comments": "31f208423 is responsible because the variable should be a string and was a boolean"
