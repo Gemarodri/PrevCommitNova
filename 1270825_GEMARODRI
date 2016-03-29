@@ -1,0 +1,9 @@
+{
+  "Id": "1270825",
+  "IdGerrit": "90321",
+  "Files": "nova/virt/libvirt/driver.py,nova/virt/libvirt/utils.py",
+  "CommitParent": "f75fea973cdd6da9dec677afa17d14cb1023c01b",
+  "CommitPrevious": "3a3ad540\nca3862cd\n44d543bf9\n0ba9cca78\n96195d51f\n48905ac08\n659ec75ea\nb0d36683f\n2ee5ac3b5",
+  "Responsible": "Atleastone",
+  "Comments": "3a3ad540 not responsible, it's an APi change added an extra argument.\nca3862cd not responsible, false positive because it don't delete the line, it moved the line. it was added after the bug was reported.\n44d543bf9 is responsible\n0ba9cca78 is not responsible, false positive because this commit was added after the ticket was opened.\n96195d51f  false positive because this commit was added after the ticket was opened.\n48905ac08 is not responsible. It's a false positive because it changed the format. it's a false positive because this commit was added after the ticket was opened.\n659ec75ea is not responsible, it added an extra arguments in the call APi. \nb0d36683f is not responsible, it change the name of the function. It's a false positive because it copied lines from its previous commit.\n2ee5ac3b5 is not responsible, it added an extra arguments in the call APi. It's a false positive because it copied lines from its previous commit."
+}
