@@ -3,7 +3,7 @@
   "IdGerrit": "141829",
   "Files": "nova/virt/vmwareapi/vm_util.py,nova/virt/vmwareapi/vmops.py",
   "CommitParent": "79dcd413808e2eeef8fe1432dd470069cc32ebf2",
-  "CommitPrevious": "2bcda65d\nf0ef9ea\n5f055edd\ndb953657\nf3f1a53f",
+  "CommitPrevious": "2bcda65d\nf0ef92ea\n5f055edd\ndb953657\nf3f1a53f",
   "Responsible": "Atleastone",
-  "Comments": "2bcda65d It's not responsible. Now the code do the same.\nf0ef9ea It's responsible, it forgot added some 'else if ' conditions\n5f055edd is not responsible, the lines added at this commit are being keept.\ndb953657 it's a false positive because the commit was done after the bug report opened\nf3f1a53f it's a false positive because the commit was done after the bug report opened"
+  "Comments": "2bcda65d It's not responsible. Now the code do the same.\nf0ef92ea It's responsible, it forgot added some 'else if ' conditions\n5f055edd is not responsible, the lines added at this commit are being keept.\ndb953657 it's a false positive because the commit was done after the bug report opened\nf3f1a53f it's a false positive because the commit was done after the bug report opened"
 }
